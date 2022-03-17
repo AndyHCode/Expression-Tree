@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test8.cpp
+F:\Lab\Lab8_assignment\Lab8\ExpressionTree.cpp(117,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Lab\Lab8_assignment\Lab8\ExpressionTree.cpp(138,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  show8.cpp
+  ExpressionTree.cpp
+F:\Lab\Lab8_assignment\Lab8\ExpressionTree.cpp(117,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Lab\Lab8_assignment\Lab8\ExpressionTree.cpp(138,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+ExpressionTree.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab8.vcxproj -> F:\Lab\Lab8_assignment\Debug\Lab8.exe
